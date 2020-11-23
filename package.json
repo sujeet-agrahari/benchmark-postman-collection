@@ -1,0 +1,14 @@
+{
+  "name": "benchmark-postman-api",
+  "version": "1.0.0",
+  "description": "A tiny app to benchmark postman collection using autocannon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sujeet Agrahari",
+  "license": "MIT",
+  "dependencies": {
+    "autocannon": "^6.5.0"
+  }
+}
