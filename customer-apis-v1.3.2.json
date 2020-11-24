@@ -60,7 +60,7 @@
 									"query": [
 										{
 											"key": "phone",
-											"value": "8576863491"
+											"value": "8576863XXX"
 										},
 										{
 											"key": "auth_type",
@@ -153,7 +153,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:3000/api/v1/auth/otp/resend?phone=8576863491&auth_type=login",
+							"raw": "https://localhost:3000/api/v1/auth/otp/resend?phone=8576863XXX&auth_type=login",
 							"protocol": "https",
 							"host": [
 								"localhost:3000"
@@ -168,7 +168,7 @@
 							"query": [
 								{
 									"key": "phone",
-									"value": "8576863491"
+									"value": "8576863XXX"
 								},
 								{
 									"key": "auth_type",
@@ -184,7 +184,7 @@
 								"method": "GET",
 								"header": [],
 								"url": {
-									"raw": "https://localhost:3000/api/v1/auth/otp/resend?phone=8576863491&auth_type=login",
+									"raw": "https://localhost:3000/api/v1/auth/otp/resend?phone=8576863XXX&auth_type=login",
 									"protocol": "https",
 									"host": [
 										"localhost:3000"
@@ -199,7 +199,7 @@
 									"query": [
 										{
 											"key": "phone",
-											"value": "8576863491"
+											"value": "8576863XXX"
 										},
 										{
 											"key": "auth_type",
