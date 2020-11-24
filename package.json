@@ -9,6 +9,7 @@
   "author": "Sujeet Agrahari",
   "license": "MIT",
   "dependencies": {
-    "autocannon": "^6.5.0"
+    "autocannon": "git+https://github.com/mcollina/autocannon.git",
+    "chalk": "^4.1.0"
   }
 }
